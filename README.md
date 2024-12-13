@@ -15,3 +15,5 @@ Source code and data for "Knowledge-guided domain adaptation model for transferr
 * python main_cv.py \<parameters\>  #---Regression task with 5-fold CV
 * python main_independent.py \<parameters\> #---Independent testing with 9(traing):1(testing) split of the dataset
 * python main_classify.py \<parameters\> #---Binary classification task with IC50 values
+
+The data can be downloaded from here： https://drive.google.com/file/d/15AcSmRdq2t4tlmOQd93Vn4Z7dohqmklg/view?usp=drive_link
