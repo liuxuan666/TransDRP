@@ -18,6 +18,6 @@ TransDRP follows a two-phase fashion of pre-training and adaptation. In the firs
 1. Install anaconda:
 Instructions here: https://www.anaconda.com/download/
 2. pip install -r Requirements.txt
-3. The data can be downloaded from here：https://drive.google.com/file/d/1rfFjvBqxO8vRJXdLCh_MPZZhe8E8DVZy/view?usp=sharing
+3. The data can be downloaded from here：https://drive.google.com/file/d/1azKGGPOCJNDP4vQbV1v8p_XqCrd7ekP1/view?usp=sharing
 4. Run main.py
 
